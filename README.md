@@ -1,2 +1,2 @@
-# OMS-DNS
-DNS module for OMS
+# OMC-DNS
+DNS module for OMC
